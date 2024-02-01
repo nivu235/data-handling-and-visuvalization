@@ -1,0 +1,6 @@
+a <- c(1, 2, 3, 4, 5)
+b <-c("Product A", "Product B", "Product C", "Product D", "Product E")
+c = c(250, 175, 300, 200, 220)
+plot(c, type = "o", col = "red",
+    xlab = "id", ylab = "name ",
+    main = "Article Written chart")
